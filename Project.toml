@@ -1,0 +1,14 @@
+name = "EquivEffectFunc"
+uuid = "2270f01f-eac8-4b93-b14f-759d0700d576"
+authors = ["Louis Lu <louisyulu@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dierckx = "39dd38d3-220a-591b-8e3c-4c3a8c710a94"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+PlotlyJS = "f0f68f2c-4968-5e81-91da-67840de0976a"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
+WebIO = "0f1e0344-ec1d-5b48-a673-e5cf874b6c29"

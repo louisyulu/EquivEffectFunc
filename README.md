@@ -23,7 +23,7 @@ Type ] key to switch into package mode
 5. `build`
 Build the current package
 6. Press `delete` key to return to Julia mode
-7. `using Pluto`
+7. `import Pluto`
 Import Pluto package
 8. `Pluto.run()`
 Start Pluto notebook and the notebook will open in your default browser
